@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="18px" viewBox="0 0 70 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>dots</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-277" transform="translate(-3232.000000, -3736.000000)" fill="#4E8416">
+            <g id="Group-109" transform="translate(2330.000000, 3736.000000)">
+                <g id="dots" transform="translate(901.999400, 0.000600)">
+                    <path d="M17.278,8.638 C17.278,13.41 13.41,17.276 8.64,17.276 C3.868,17.276 0,13.41 0,8.638 C0,3.866 3.868,0 8.64,0 C13.41,0 17.278,3.866 17.278,8.638" id="Fill-85"></path>
+                    <path d="M43.194,8.638 C43.194,13.41 39.324,17.276 34.556,17.276 C29.784,17.276 25.916,13.41 25.916,8.638 C25.916,3.866 29.784,0 34.556,0 C39.324,0 43.194,3.866 43.194,8.638" id="Fill-87"></path>
+                    <path d="M69.108,8.638 C69.108,13.41 65.24,17.276 60.47,17.276 C55.7,17.276 51.832,13.41 51.832,8.638 C51.832,3.866 55.7,0 60.47,0 C65.24,0 69.108,3.866 69.108,8.638" id="Fill-89"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
